@@ -54,9 +54,9 @@ Equipment/
 │     ├── Equipment.cs
 │     └── MaintenanceHistory.cs
 ├── /Views                               # XAML 윈도우/페이지
-│     ├── MainWindow.xaml/.cs                  -> main 페이지  / cs
-│     ├── AddEquipmentWindow.xaml/.cs          -> 장비추가 페이지  / cs
-│     ├── AddMaintenanceWindow.xaml/.cs        -> 정비이력 추가 페이지  / cs
+│     ├── MainWindow.xaml/.cs             -> main 페이지  / cs
+│     ├── AddEquipmentWindow.xaml/.cs     -> 장비추가 페이지  / cs
+│     ├── AddMaintenanceWindow.xaml/.cs   -> 정비이력 추가 페이지  / cs
 
 ```
 <br /><br />
