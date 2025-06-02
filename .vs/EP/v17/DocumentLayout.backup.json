@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\addmaintenancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:addmaintenancewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\addequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:addequipmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\addequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:addequipmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\ep.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:ep.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\models\\maintenancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:models\\maintenancehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|c:\\users\\kosta\\desktop\\equipment\\eponly\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B27A7C-49C9-4850-BE8D-3880B544B90C}|EP.csproj|solutionrelative:models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEquipmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\AddEquipmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddEquipmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\AddEquipmentWindow.xaml.cs",
+              "RelativeToolTip": "AddEquipmentWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA1wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:23:25.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAGIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:22:09.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EP.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\EP.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "EP.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\EP.csproj.Backup.tmp",
+              "RelativeToolTip": "EP.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T09:22:07.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T09:22:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMaintenanceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\AddMaintenanceWindow.xaml",
+              "RelativeDocumentMoniker": "AddMaintenanceWindow.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\AddMaintenanceWindow.xaml",
+              "RelativeToolTip": "AddMaintenanceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T09:21:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEquipmentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\AddEquipmentWindow.xaml",
+              "RelativeDocumentMoniker": "AddEquipmentWindow.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\AddEquipmentWindow.xaml",
+              "RelativeToolTip": "AddEquipmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T09:21:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:21:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaintenanceHistory.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\Models\\MaintenanceHistory.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceHistory.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\Models\\MaintenanceHistory.cs",
+              "RelativeToolTip": "Models\\MaintenanceHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:20:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\Models\\Equipment.cs",
+              "RelativeToolTip": "Models\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:20:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KOSTA\\Desktop\\Equipment\\EPonly\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T09:18:18.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
