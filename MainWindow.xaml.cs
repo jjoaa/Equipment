@@ -93,37 +93,9 @@ namespace EP
             }
         }
 
-        //private void BtnRefresh_Click(object sender, RoutedEventArgs e)
-        //{
-        //    LoadMaintenanceHistories();
-        //}
-
         private void BtnAddLog_Click(object sender, RoutedEventArgs e)
         {
-            //try
-            //{
-            //    // 예시: 장비ID 1번, 현재시간, 테스트 데이터로 새 로그 추가
-            //    var newLog = new MaintenanceHistory
-            //    {
-            //        EquipmentId = 1,
-            //        Date = DateTime.Now,
-            //        Technician = "테스트 정비사",
-            //        Description = "테스트로 정비 이력 추가"
-            //    };
-
-            //    _context.MaintenanceHistories.Add(newLog);
-            //    _context.SaveChanges();
-
-            //    MessageBox.Show("정비 이력 추가 완료");
-
-            //    LoadMaintenanceHistories(); // 추가 후 목록 새로고침
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show("정비 이력 추가 실패: " + ex.Message);
-            //}
-
-            if (EquipmentListBox.SelectedItem is not EquipmentViewModel selectedEquipment)
+          if (EquipmentListBox.SelectedItem is not EquipmentViewModel selectedEquipment)
             {
                 MessageBox.Show("장비를 선택해주세요.");
                 return;
@@ -143,9 +115,7 @@ namespace EP
             if (window.ShowDialog() == true)
             {
                 // 장비 목록 새로고침
-                //var equipments = _context.Equipments.ToList();
-                //EquipmentListBox.ItemsSource = equipments;
-                LoadMaintenanceHistories(); // 장비 목록 새로고침
+                LoadMaintenanceHistories();
             }
         }
     }
