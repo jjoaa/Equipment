@@ -16,42 +16,8 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-
-        <!-- 좌측: 장비 유형별 탭 
-        <TabControl Grid.Row="0" Grid.Column="0" x:Name="EquipmentTypeTabs" SelectionChanged="EquipmentTypeTabs_SelectionChanged">
-            <TabItem Header="소화기" Name="TabExtinguishers">
-                <ListBox x:Name="ExtinguisherListBox"
-                     SelectionChanged="EquipmentListBox_SelectionChanged"
-                     Height="400">
-                    <ListBox.ItemTemplate>
-                        <DataTemplate>
-                            <TextBlock Text="{Binding DisplayName}" />
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
-            </TabItem>
-            <TabItem Header="포병" Name="TabArtillery">
-                <ListBox x:Name="ArtilleryListBox"
-                     SelectionChanged="EquipmentListBox_SelectionChanged"
-                     Height="400">
-                    <ListBox.ItemTemplate>
-                        <DataTemplate>
-                            <TextBlock Text="{Binding DisplayName}" />
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
-            </TabItem>
-           필요하면 탭 추가
-        </TabControl>
-
-        좌측 하단 버튼: 장비 추가
-        <Button Name="BtnAddEquipment" Content="장비 추가" Width="100" Height="30"
-                Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" Margin="0,10,0,0"
-                Click="BtnAddEquipment_Click"/> -->
-        
-        <!-- 기존 소화기만  -->
+       <!-- 좌측: 장비 목록 -->
         <StackPanel Grid.Column="0">
-
             <TextBlock Text="장비 목록" FontSize="16" FontWeight="Bold" Margin="0 0 0 10"/>
             <ListBox x:Name="EquipmentListBox"
                     DisplayMemberPath="Name"
@@ -78,8 +44,7 @@
             </DataGrid>
 
             <StackPanel Orientation="Horizontal" Margin="0,10,0,0" HorizontalAlignment="Right">
-              
-                <Button x:Name="BtnAddLog" Content="정비 이력 추가" Width="120" Margin="10,0,5,0"  Click="BtnAddLog_Click"/>
+              <Button x:Name="BtnAddLog" Content="정비 이력 추가" Width="120" Margin="10,0,5,0"  Click="BtnAddLog_Click"/>
             </StackPanel>
         </StackPanel>
     </Grid>
