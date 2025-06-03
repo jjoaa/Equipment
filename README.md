@@ -1,4 +1,4 @@
-# Equipment Maintenance Management System
+# Equ Management
 <br />
 
 ## 1. 소개
